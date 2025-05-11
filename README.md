@@ -11,7 +11,7 @@ You can view and use the live project at [https://notetakingapp-6sjw.onrender.co
 ## Features
 
 - Create new notes with a title and content.
-- View a list of all saved notes.
+- View a list of all saved notes. 
 - Edit the names of existing notes.
 - Read the full content of each note.
 

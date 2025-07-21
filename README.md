@@ -20,7 +20,7 @@ You can view and use the live project at [https://notetakingapp-6sjw.onrender.co
 - **Node.js**: Server-side JavaScript runtime.
 - **Express**: Web application framework for Node.js.
 - **EJS**: Embedded JavaScript templates for rendering dynamic content.
-- **Tailwind CSS**: Utility-first CSS framework for styling.
+- **Tailwind CSS**: Utility-First CSS framework for styling.
 
 ## Installation
 
